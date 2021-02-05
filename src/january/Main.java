@@ -7,7 +7,7 @@ public class Main {
         int multiplyingByThree = adding(num);
         System.out.println("Value entered multiplied by 3: " + multiplyingByThree + ".");
         int multiplyingByThreeTimesThree = calculation(num);
-        System.out.println("Value entered multiplied by 3 times 3: " + multiplyingByThreeTimesThree + ".");
+        System.out.println(" - Value entered multiplied by 3 times 3: " + multiplyingByThreeTimesThree + ".");
 
     }
 
